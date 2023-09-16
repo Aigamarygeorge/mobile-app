@@ -44,7 +44,7 @@ function clearShoppingListEl() {
 }
 
 function clearInputFieldEl() {
-    inputFieldEl.value = ""
+    inputFieldEl.value = "" 
 }
 
 function appendItemToShoppingListEl(item) {
